@@ -156,7 +156,7 @@ iframe#booking{
   margin-top:80px;
   min-height:1200px;
   max-width: 100%;
-	background:url('../img/tablelarge.jpg');
+	background:url('img/tablelarge.jpg');
 	background-repeat:no-repeat 0 -300px;
 	background-size: cover;
   background-position: 50% 50%;
@@ -181,7 +181,7 @@ iframe#booking{
   margin-top:80px;
   min-height:1200px;
   max-width: 100%;
-	background:url('../img/people-sunset.jpg');
+	background:url('img/people-sunset.jpg');
 	background-repeat:no-repeat 0 -300px;
 	background-size: cover;
   background-position: 50% 50%;
@@ -193,7 +193,7 @@ iframe#booking{
   margin-top:80px;
   min-height:1200px;
   max-width: 100%;
-	background:url('../img/beach.jpg');
+	background:url('img/beach.jpg');
 	background-repeat:no-repeat 0 -300px;
 	background-size: cover;
   background-position: 50% 50%;
@@ -205,7 +205,7 @@ iframe#booking{
   margin-top:80px;
   min-height:1200px;
   max-width: 100%;
-	background:url('../img/maori-warrior.jpg');
+	background:url('img/maori-warrior.jpg');
 	background-repeat:no-repeat 0 -300px;
 	background-size: cover;
   background-position: 50% 50%;
